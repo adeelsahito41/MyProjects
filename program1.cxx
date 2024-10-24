@@ -1,5 +1,3 @@
-// 24AI-41
-
 #include<stdio.h>
 int main(){
 	int a;
